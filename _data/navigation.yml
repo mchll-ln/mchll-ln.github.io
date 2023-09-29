@@ -2,6 +2,9 @@
 main:
   - title: "CV"
     url: https://mchll-ln.github.io/files/cv_0929.pdf
+
+  - title: "Friends"
+    url: /portfolio/
     
   # - title: "Publications"
   #   url: /publications/
