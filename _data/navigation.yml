@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: https://mchll-ln.github.io/files/cv_0929.pdf
+    
   # - title: "Publications"
   #   url: /publications/
 
@@ -11,6 +14,3 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: https://mchll-ln.github.io/files/cv_0929.pdf
