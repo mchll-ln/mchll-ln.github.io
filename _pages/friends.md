@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Friends"
-permalink: /portfolio/
+permalink: /friends/
 author_profile: true
 redirect_from:
-  - /portfolio
+  - /friends
 ---
 
 
