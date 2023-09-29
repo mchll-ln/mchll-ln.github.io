@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This page is under construction as of [Sep 29th. 2023] ALL LINKS ARE OPERATIONAL {: .notice}
+This page is under construction as of [Sep 29th. 2023] ALL LINKS ARE OPERATIONAL
+{: .notice}
 
 ## !!! Currently on the grad school and internship/full-time job search!
 
